@@ -8,10 +8,9 @@ Welcome to my little corner of the internet! I'm passionate about building clean
 
 ## 🌟 About Me
 
-- ✨ **Creating bugs since...** 2018 (but mostly fixing them these days)
+- ✨ **Creating bugs since...** 2021 (but mostly fixing them these days)
 - 📚 **Currently learning:** Advanced JavaScript, React hooks, and TypeScript.
-- 🎯 **My goals:** To master full-stack development and contribute to open-source projects.
-- 🎲 **Fun fact:** I once built a WordPress plugin to play chess 🎮♟️.
+- 🎯 **My goals:** To master full-stack development and built something exceptional.
 
 ---
 
@@ -43,32 +42,21 @@ I’m proficient in a wide variety of tools and technologies. Here are the ones 
 
 ---
 
-## 🚀 Projects
-
-Here are some cool projects I’m working on:
-
-- **[WordPress Plugin for Chess](https://github.com/gaurav-chess-plugin):** A WordPress plugin that lets users play chess on their site. I built it using PHP and JavaScript.
-- **[Portfolio Website](https://gaurav.dev):** My personal portfolio website built using React and Next.js to showcase my projects and skills.
-- **[Next.js Blog](https://gauravblog.com):** A simple blog platform I built with Next.js and Markdown.
-
----
-
 ## 📫 How to Reach Me
 
-- 📧 Email: gaurav@example.com
-- 💬 [LinkedIn](https://linkedin.com/in/gaurav)
-- 🌐 [Personal Website](https://gaurav.dev)
-- 🐦 Twitter: [@gaurav_dev](https://twitter.com/gaurav_dev)
+- 📧 Email: gauravoza12@gmail.com
+- 💬 [LinkedIn](https://linkedin.com/)
+- 🌐 [Personal Website](coming soon....)
+
 
 ---
 
 ## 🔧 My Dev Setup
 
-- 💻 **Editor:** Visual Studio Code
-- 🖥️ **OS:** macOS
-- 🛠️ **Terminal:** iTerm2
+- 💻 **Editor:** Visual Studio Code, cursor
+- 🖥️ **OS:** windows, ubuntu
 - 📊 **Version Control:** Git & GitHub
-- 🌱 **Cloud:** AWS, DigitalOcean
+- 🌱 **Cloud:** AWS, IBM Watson Studio
 
 ---
 
@@ -76,7 +64,7 @@ Here are some cool projects I’m working on:
 
 - Full-stack web development with a focus on scalable applications.
 - Open-source contributions — helping the community grow!
-- Exploring machine learning and AI, specifically Python libraries.
+- Exploring machine learning and AI, specifically Python libraries, App Development.
 
 ---
 
@@ -84,13 +72,13 @@ Here are some cool projects I’m working on:
 
 - I once designed a website with only **HTML and CSS**—no JavaScript at all. It was quite the challenge!
 - I enjoy solving coding puzzles (like on Codewars and LeetCode).
-- I’m also a huge fan of board games—chess and Settlers of Catan are my favorites.
+- I’m also a huge fan of board games.
 
 ---
 
 ## 🚧 Currently Working On
 
-- Building my skills with **TypeScript** and **GraphQL**.
-- Contributing to a couple of **open-source WordPress themes**.
+- Building my skills with **Flutter** and **React**.
+- Currently building my portfolio website with **React**.
 
 ---
